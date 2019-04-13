@@ -1,3 +1,6 @@
+# To run the test suite:
+CHROME_BIN="$PWD/chromium.sh" yarn test
+
 # TensorFlow.js WebGPU backend
 
 This repo contains a standalone WebGPU backend that implements the TensorFlow.js `KernelBackend` interface.

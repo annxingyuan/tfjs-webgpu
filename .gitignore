@@ -1,2 +1,8 @@
 node_modules/
 yarn-error.log
+.rpt2_cache/
+dist/
+Chromium.app/
+.DS_Store
+.yalc/
+yalc.lock
