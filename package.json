@@ -28,6 +28,7 @@
     "rollup-plugin-typescript2": "~0.20.1"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "~1.0.0-alpha2"
+    "@tensorflow/tfjs": "~1.0.0-alpha2",
+    "@webgpu/shaderc": "0.0.2"
   }
 }

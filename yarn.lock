@@ -175,6 +175,11 @@
   resolved "https://registry.yarnpkg.com/@types/webgl2/-/webgl2-0.0.4.tgz#c3b0f9d6b465c66138e84e64cb3bdf8373c2c279"
   integrity sha512-PACt1xdErJbMUOUweSrbVM7gSIYm1vTncW2hF6Os/EeWi6TXYAYMPp+8v6rzHmypE5gHrxaxZNXgMkJVIdZpHw==
 
+"@webgpu/shaderc@0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@webgpu/shaderc/-/shaderc-0.0.2.tgz#a98cae525131777ff247be8faa9617ef2ecc4134"
+  integrity sha512-q1XAH1oL5Jp70By83qygAXrDnG3EcTxovFbdWqL3iRucTkdPlFvOCn2j04JOK9Ti5qXUWtJHC6ZIgc74Wk1fKA==
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"

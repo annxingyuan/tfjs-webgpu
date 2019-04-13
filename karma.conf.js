@@ -27,14 +27,9 @@ module.exports = function(config) {
     basePath: '',
     frameworks: ['jasmine', 'karma-typescript'],
     files: [
-      'src/**/*.ts',
-      'src/shaderc/*.js',
-      { pattern: 'src/shaderc/*.wasm', included: false },
+      'src/**/*.ts'
     ],
-    preprocessors: {
-      '**/*.ts': ['karma-typescript'],
-      'src/shaderc/index.js': ['karma-typescript'],
-    },
+    preprocessors: {'**/*.ts': ['karma-typescript']},
     karmaTypescriptConfig,
     reporters: ['progress', 'karma-typescript'],
     port: 9876,
